@@ -1,299 +1,170 @@
-<h1 align="center">Hi 👋, I'm Sai Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-M.Sc. Computer Science Graduate • Software Developer • ASP.NET & C# Developer • Generative AI Enthusiast
-</h3>
+# Hi there, I'm Sai Kumar 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Software+Developer;ASP.NET+%7C+C%23+Developer;Building+Real+World+Projects;Generative+AI+Enthusiast;Always+Learning+Something+New"/>
-</p>
+### 🚀 Full Stack Developer • Java Enthusiast • MERN Stack Learner • AI Explorer
 
-<p align="center">
-<a href="https://github.com/rsaikumar007">
-<img src="https://img.shields.io/github/followers/rsaikumar007?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/rsaikumar007">
-<img src="https://img.shields.io/github/stars/rsaikumar007?affiliations=OWNER&style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=rsaikumar007&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-</p>
-
----
-
-# 👨‍💻 About Me
-
-🎓 M.Sc. Computer Science Graduate
-
-💻 Passionate Software Developer with experience in developing web applications using ASP.NET, C#, SQL Server, HTML, CSS, JavaScript and Bootstrap.
-
-🚀 I enjoy solving real-world problems by building practical software solutions.
-
-🌱 Currently Learning
-
-- Generative AI
-- ASP.NET Core
-- React.js
-- Azure
-- Docker
-- REST APIs
-
-🎯 Career Goal
-
-To work as a Software Engineer where I can contribute to innovative software products, continuously improve my skills, and build impactful AI-powered applications.
-
----
-
-# 🚀 Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cs" height="48"/>
-
-<img src="https://skillicons.dev/icons?i=java" height="48"/>
-
-<img src="https://skillicons.dev/icons?i=python" height="48"/>
-
-<img src="https://skillicons.dev/icons?i=javascript" height="48"/>
-
-<img src="https://skillicons.dev/icons?i=html" height="48"/>
-
-<img src="https://skillicons.dev/icons?i=css" height="48"/>
-
-</p>
-
-### Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=dotnet" height="48"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap" height="48"/>
-
-</p>
-
-### Database
-
-- Microsoft SQL Server
-- MySQL
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git" height="48"/>
-
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-
-<img src="https://skillicons.dev/icons?i=visualstudio" height="48"/>
-
-<img src="https://skillicons.dev/icons?i=vscode" height="48"/>
-
-</p>
-
----
-
-# 📂 Featured Projects
-
-## 🎓 Student Feedback Management System
-
-A complete feedback management system developed using ASP.NET Web Forms and SQL Server.
-
-### Features
-
-- Student Login
-- Faculty Login
-- Admin Dashboard
-- Department Management
-- Faculty Management
-- Subject Allocation
-- Secure Authentication
-- Reports
-- Feedback Submission
-
-**Technology**
-
-- ASP.NET
-- C#
-- SQL Server
-- HTML
-- CSS
-- JavaScript
-
-🔗 https://github.com/rsaikumar007
-
----
-
-## 🍔 Fresh Bite
-
-A modern food ordering web application with responsive user interface.
-
-### Features
-
-- User Authentication
-- Food Categories
-- Search
-- Cart
-- Checkout
-- Responsive Design
-
----
-
-# 📊 GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Full+Stack+Java+Developer;MERN+Stack+Developer;Exploring+Artificial+Intelligence;Always+Learning+Something+New" />
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rsaikumar007&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering-success?style=for-the-badge"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaikumar007&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rsaikumar007&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Learning-Generative%20AI-purple?style=for-the-badge"/>
 
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rsaikumar007&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 💫 About Me
 
-<p align="center">
+I'm a passionate **Full Stack Developer** with a strong interest in designing modern, scalable, and user-focused web applications.
 
-<img src="https://github-profile-trophy.vercel.app/?username=rsaikumar007&theme=tokyonight&margin-w=15&margin-h=15"/>
+I enjoy transforming ideas into practical software by combining intuitive frontend experiences with reliable backend systems. My interests span **Java**, **Spring Boot**, **ASP.NET**, **MERN Stack**, and **Artificial Intelligence**, and I'm always looking for opportunities to expand my technical expertise.
 
-</p>
-
----
-
-# 💼 Technical Skills
-
-### Backend
-
-- ASP.NET Web Forms
-- ASP.NET
-- C#
-- SQL Server
-
-### Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-
-### Programming
-
-- C#
-- Java
-- Python
-- SQL
-
-### Version Control
-
-- Git
-- GitHub
-
-### Core Computer Science
-
-- Object-Oriented Programming
-- Data Structures
-- Database Management Systems
-- Operating Systems
-- Computer Networks
+I believe in writing clean, maintainable code, continuously improving my skills, and building projects that solve real-world problems.
 
 ---
 
-# 🌱 Currently Exploring
+# 🚀 What I'm Working On
 
-- Generative AI
-- Large Language Models (LLMs)
-- ASP.NET Core
-- React.js
-- Azure
-- Docker
-- REST APIs
-- Clean Architecture
+* 🌱 Advancing my Full Stack Java development skills
+* ⚛️ Building modern applications with the MERN Stack
+* 🤖 Exploring Generative AI and AI-powered applications
+* 💻 Developing real-world portfolio projects
+* 📚 Continuously learning new technologies and best practices
 
 ---
 
-# 🎯 Areas of Interest
+# 🛠️ Tech Stack
 
-- Software Engineering
-- Backend Development
-- Full Stack Development
-- Artificial Intelligence
-- Cloud Computing
-- Problem Solving
+### 💻 Programming Languages
+
+```text
+Java • C# • JavaScript • TypeScript • SQL
+```
+
+### 🎨 Frontend
+
+```text
+HTML5 • CSS3 • Bootstrap • Angular • React
+```
+
+### ⚙️ Backend
+
+```text
+Spring Boot • ASP.NET • Node.js • Express.js • REST APIs
+```
+
+### 🗄️ Databases
+
+```text
+MySQL • MongoDB • SQL Server
+```
+
+### 🔧 Tools & Platforms
+
+```text
+Git • GitHub • VS Code • IntelliJ IDEA • Eclipse • Postman
+```
 
 ---
 
-# 🏆 Achievements
+# 📌 Featured Projects
 
-🥇 First Prize in Project Competition for developing the Student Feedback Management System.
+### 🎓 Student Feedback System
 
-🎓 Successfully completed M.Sc. Computer Science.
+An ASP.NET-based web application that streamlines the student feedback process with role-based access for administrators, faculty, and students.
 
-💻 Passionate about building software that solves real-world problems.
+**Highlights**
+
+* Authentication & Authorization
+* SQL Server Integration
+* Dynamic Feedback Forms
+* Reporting Dashboard
+
+---
+
+### 🍔 FreshBite
+
+A modern food delivery website featuring responsive design, interactive shopping cart functionality, and an elegant user experience.
+
+**Highlights**
+
+* Responsive Design
+* Bootstrap 5
+* Dynamic Cart
+* JavaScript Interactions
+
+---
+
+### 📹 Video Calling & Chat Application
+
+A real-time communication platform built with the MERN stack.
+
+**Highlights**
+
+* Video Calling
+* Real-Time Chat
+* Authentication
+* Modern React Interface
+
+---
+
+# 📈 Current Learning Journey
+
+```text
+Java ██████████████ 90%
+
+Spring Boot ███████████░ 75%
+
+React ██████████░░░░ 70%
+
+Angular ███████████░ 75%
+
+Node.js █████████░░░ 65%
+
+Artificial Intelligence ████████░░ 60%
+```
+
+---
+
+# 🎯 Goals
+
+* Build impactful software that solves real-world problems
+* Master Full Stack Development
+* Deepen expertise in Artificial Intelligence
+* Contribute to open-source projects
+* Grow as a Software Engineer through continuous learning
+
+---
+
+# 💼 Looking For
+
+* Software Engineer Roles
+* Full Stack Developer Opportunities
+* Java Developer Positions
+* AI & Generative AI Projects
+* Open Source Collaborations
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/rsaikumar007">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/saikumar-raskachula/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:saikumarraskachula@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
-📧 Email: **saikumarraskachula@gmail.com**
-
-💼 LinkedIn: **https://www.linkedin.com/in/saikumar-raskachula/**
-
-🐙 GitHub: **https://github.com/rsaikumar007**
-
----
-
-# 💬 Favorite Quote
-
-> "The best way to predict the future is to build it."
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+* 💻 GitHub: https://github.com/rsaikumar007
 
 ---
 
 <div align="center">
 
-### ⭐ Thank you for visiting my GitHub Profile!
+### ⭐ "Code with Purpose. Learn with Curiosity. Build with Passion."
 
-If you like my projects, consider giving them a ⭐.
-
-🚀 Happy Coding!
+Thanks for visiting my profile!
 
 </div>
